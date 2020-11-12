@@ -1,6 +1,6 @@
 ##Playtest
 
-play the game prototype [here](TwinePrototype/Home Invasion.html)
+play the game prototype [here](Home Invasion.html)
 
 ##complete the survey
 
